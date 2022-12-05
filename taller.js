@@ -211,8 +211,7 @@
 //     }else{
 //         descuento=0.2
 //     }
-//     preioDescu=precioOrig-
-//     (precioOrig*descuento)
+//     preioDescu=precioOrig-(precioOrig*descuento)
 //     console.log(`el articulo ${producto} tiene un precio con descuento de ${preioDescu} y sus cantidades fueron de ${cantidad}, su precio en total fue de ${preioDescu*cantidad}`)
 //     console.log(`su clave fue de ${clave} y su precio original fue de ${precioOrig}`)
 //     break
