@@ -3,15 +3,15 @@
 // let num=+prompt('digite el primer numero')
 // let num2=+prompt('digite el segundo numero')
 // if (num<num2){
-//     document.write(num)
-//     document.write(num2)
+//     console.log(num)
+//     console.log(num2)
 // } 
 // else if(num2<num){
-//     document.write(num2)
-//     document.write(num)
+//     console.log(num2)
+//     conle.log(num)
 // }else{
-//     document.write(num)
-//     document.write(num2)
+//     console.log(num)
+//     console.log(num2)
 // }
 
 // 2. 
@@ -170,7 +170,7 @@
 // break
 // }
 
-// 6
+// // 6
 
 // let nombre=prompt('digite el nombre del estudiante')
 // if (nombre!=''){
